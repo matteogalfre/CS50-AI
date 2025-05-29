@@ -1,0 +1,15 @@
+se mettre dans repertoir 
+git init
+git status
+git checkout -b ai50/projects/2020/x/tictactoe
+git status
+git add -A
+git status
+git commit -am "first commit for tictactoe"
+git remote add origin https://github.com/me50/matteogalfre.git
+git remote
+git push origin --all
+
+Avancement :
+Degrees, tictactoe, knights, minesweeper, pagerank, heredity, crossword, shopping, nim, traffic tt bon
+Quiz 0, 1, 2, 3, 4, 5, 6
